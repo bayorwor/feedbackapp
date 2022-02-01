@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "This is a great app new heere",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "rating": "5",
+      "text": "we are learning how to send data",
+      "id": 6
+    },
+    {
+      "text": "trying out new json server",
+      "rating": 8,
+      "id": 8
+    }
+  ]
+}

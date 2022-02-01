@@ -16,7 +16,9 @@ function FeedbackList() {
   }
 
   return isLoading ? (
-    <Spinner />
+    <Card>
+      <Spinner />
+    </Card>
   ) : (
     <div className="feedback-list">
       <AnimatePresence>
